@@ -1,4 +1,4 @@
-## [Fedilab](https://fedilab.app/)
+### [Fedilab](https://fedilab.app/)
 
 #### Install
 
